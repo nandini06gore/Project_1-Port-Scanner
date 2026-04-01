@@ -30,7 +30,7 @@ Usage
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/python-port-scanner.git
+git clone https://github.com/nandini06gore/python-port-scanner.git
 Run the script:
 
 Bash
